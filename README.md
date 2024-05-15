@@ -1,4 +1,4 @@
-### Olá! eu sou o João Pedro 👍
+### Salve! eu sou o João Pedro 👍
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaopedr0o/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/915017735136743495)
